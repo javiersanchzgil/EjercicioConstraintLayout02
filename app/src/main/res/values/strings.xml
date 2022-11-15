@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioConstraintLayout02</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="estrellita">Estrellita</string>
+</resources>
